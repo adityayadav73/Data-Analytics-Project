@@ -1,12 +1,12 @@
 ## Netflix_titles Data Analysis & Visuallization
 ## Overview
-This project focuses on analyzing and visualizing all Tv Shows and Movies meta date on netflix.
+This project focuses on analyzing and visualizing all TV Shows and Movies metadata on netflix.
 
 ## Project Objectives 
 -Perform data cleaning and preprocessing
--Coduct exploratory data analysis
+-Conduct exploratory data analysis
 -Visualize key netflix data
--Identify patterns in netflix all tv movies show find the trinds 
+-Identify patterns in netflix all tv movies show find the trends 
 
 
 ## Visualizations Created
@@ -20,7 +20,7 @@ This project focuses on analyzing and visualizing ecommerce sales date and ident
 
 ## Project Objectives 
 -Perform data cleaning and preprocessing
--Coduct exploratory data analysis
+-Conduct exploratory data analysis
 -Visualize key ecommerce sales data 
 -Identify patterns in ecommerce sales sales date and Prodect name Profit 
 
@@ -35,7 +35,7 @@ This project focuses on analyzing and visualizing employee income data to identi
 
 ## Project Objectives 
 -Perform data cleaning and preprocessing
--Coduct exploratory data analysis
+-Conduct exploratory data analysis
 -Visualize key employee income 
 -Identify patterns in employee income and Experience
 
