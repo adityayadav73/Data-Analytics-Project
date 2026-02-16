@@ -6,7 +6,7 @@ This project focuses on analyzing and visualizing all Tv Shows and Movies meta d
 -Perform data cleaning and preprocessing
 -Coduct exploratory data analysis
 -Visualize key netflix data
--Identify patterns in netflix all tv shows and movies find the trinds 
+-Identify patterns in netflix all tv movies show find the trinds 
 
 
 ## Visualizations Created
